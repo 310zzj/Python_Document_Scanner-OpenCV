@@ -2,4 +2,5 @@ import numpy as np
 import cv2
 from skimage.filters import threshold_local
 import math
-from scipy import nd
+from scipy import ndimage
+pri
