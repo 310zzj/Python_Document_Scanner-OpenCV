@@ -6,4 +6,4 @@ from scipy import ndimage
 print("Imports are Done!")
 
 
-cla
+class Scanner:
