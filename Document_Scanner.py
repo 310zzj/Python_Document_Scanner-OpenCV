@@ -7,3 +7,4 @@ print("Imports are Done!")
 
 
 class Scanner:
+	""
