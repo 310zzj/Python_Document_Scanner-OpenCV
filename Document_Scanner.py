@@ -8,4 +8,4 @@ print("Imports are Done!")
 
 class Scanner:
 	"""
-	A class to 
+	A class to scan (and pe
