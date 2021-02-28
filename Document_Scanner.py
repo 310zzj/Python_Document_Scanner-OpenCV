@@ -8,4 +8,4 @@ print("Imports are Done!")
 
 class Scanner:
 	"""
-	A class to scan (and perform related operations on
+	A class to scan (and perform related operations on) a docume
