@@ -10,4 +10,6 @@ class Scanner:
 	"""
 	A class to scan (and perform related operations on) a document.
 
-	..
+	...
+
+	Attr
