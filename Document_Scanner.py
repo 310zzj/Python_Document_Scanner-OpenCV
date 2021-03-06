@@ -12,4 +12,5 @@ class Scanner:
 
 	...
 
-	Attr
+	Attributes
+	
