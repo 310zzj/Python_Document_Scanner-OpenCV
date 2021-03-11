@@ -14,4 +14,4 @@ class Scanner:
 
 	Attributes
 	----------
-	
+	img : st
