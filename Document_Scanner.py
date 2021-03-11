@@ -15,4 +15,4 @@ class Scanner:
 	Attributes
 	----------
 	img : str
-		image name of t
+		image name of the document/
