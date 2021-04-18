@@ -19,4 +19,4 @@ class Scanner:
 
 	Methods
 	-------
-	Resize_Image(f
+	Resize_Image(fi
