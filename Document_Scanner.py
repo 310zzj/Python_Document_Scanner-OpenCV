@@ -19,4 +19,5 @@ class Scanner:
 
 	Methods
 	-------
-	Resize_Image(final_height, im
+	Resize_Image(final_height, img):
+	
