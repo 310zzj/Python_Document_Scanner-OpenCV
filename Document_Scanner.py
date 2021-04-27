@@ -20,4 +20,4 @@ class Scanner:
 	Methods
 	-------
 	Resize_Image(final_height, img):
-		Resizes the i
+		Resizes the image b
