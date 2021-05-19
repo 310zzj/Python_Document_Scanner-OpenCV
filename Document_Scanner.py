@@ -20,4 +20,5 @@ class Scanner:
 	Methods
 	-------
 	Resize_Image(final_height, img):
-		Resizes the image by preserving its axis 
+		Resizes the image by preserving its axis ratio.
+
