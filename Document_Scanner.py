@@ -23,4 +23,4 @@ class Scanner:
 		Resizes the image by preserving its axis ratio.
 
 	Scan_View():
-		Transforms the image/do
+		Transforms the image/document v
