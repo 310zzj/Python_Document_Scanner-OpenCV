@@ -23,4 +23,4 @@ class Scanner:
 		Resizes the image by preserving its axis ratio.
 
 	Scan_View():
-		Transforms the image/document view into B&W (proper scan
+		Transforms the image/document view into B&W (proper scanned colo
