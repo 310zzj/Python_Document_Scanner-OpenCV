@@ -24,3 +24,5 @@ class Scanner:
 
 	Scan_View():
 		Transforms the image/document view into B&W (proper scanned colour scheme).
+
+	Rotat
