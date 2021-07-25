@@ -26,4 +26,4 @@ class Scanner:
 		Transforms the image/document view into B&W (proper scanned colour scheme).
 
 	Rotation():
-		Autom
+		Automatic
