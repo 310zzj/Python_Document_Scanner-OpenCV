@@ -30,4 +30,4 @@ class Scanner:
 
 	"""
 
-	def __init_
+	def __init__(self, i
