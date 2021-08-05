@@ -27,3 +27,7 @@ class Scanner:
 
 	Rotation():
 		Automatically rotates the image/document to a straight (top-down, face-on) view.
+
+	"""
+
+	def __
