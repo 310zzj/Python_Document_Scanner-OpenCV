@@ -32,3 +32,4 @@ class Scanner:
 
 	def __init__(self, img):
 		"""
+		Constru
