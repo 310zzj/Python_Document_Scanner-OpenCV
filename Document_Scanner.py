@@ -32,4 +32,4 @@ class Scanner:
 
 	def __init__(self, img):
 		"""
-		Constructs a
+		Constructs all the n
