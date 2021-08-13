@@ -32,4 +32,4 @@ class Scanner:
 
 	def __init__(self, img):
 		"""
-		Constructs all the necessary at
+		Constructs all the necessary attribute
