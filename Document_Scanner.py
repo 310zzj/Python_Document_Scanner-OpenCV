@@ -33,3 +33,5 @@ class Scanner:
 	def __init__(self, img):
 		"""
 		Constructs all the necessary attributes for the person object.
+
+		
