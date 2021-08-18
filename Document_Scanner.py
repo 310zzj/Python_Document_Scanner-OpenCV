@@ -34,4 +34,5 @@ class Scanner:
 		"""
 		Constructs all the necessary attributes for the person object.
 
-		Paramet
+		Parameters
+		--
