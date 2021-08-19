@@ -35,4 +35,5 @@ class Scanner:
 		Constructs all the necessary attributes for the person object.
 
 		Parameters
-		-----
+		----------
+		img : s
