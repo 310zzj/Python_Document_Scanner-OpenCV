@@ -37,4 +37,4 @@ class Scanner:
 		Parameters
 		----------
 		img : str
-			
+			image nam
