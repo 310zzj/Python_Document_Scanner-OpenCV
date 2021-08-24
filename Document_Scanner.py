@@ -40,3 +40,4 @@ class Scanner:
 			image name of the document/photo
 
 		Returns
+		-
