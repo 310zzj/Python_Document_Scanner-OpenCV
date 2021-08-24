@@ -39,4 +39,4 @@ class Scanner:
 		img : str
 			image name of the document/photo
 
-	
+		Returns
