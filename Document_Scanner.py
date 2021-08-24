@@ -37,4 +37,6 @@ class Scanner:
 		Parameters
 		----------
 		img : str
-			image name of the document/pho
+			image name of the document/photo
+
+	
