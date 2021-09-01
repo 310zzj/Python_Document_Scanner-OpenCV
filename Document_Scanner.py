@@ -41,4 +41,5 @@ class Scanner:
 
 		Returns
 		-------
-		
+		None
+		"
