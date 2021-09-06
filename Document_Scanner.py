@@ -42,4 +42,5 @@ class Scanner:
 		Returns
 		-------
 		None
-		"
+		"""
+		
