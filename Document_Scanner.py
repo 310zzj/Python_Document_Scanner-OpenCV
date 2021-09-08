@@ -44,3 +44,4 @@ class Scanner:
 		None
 		"""
 		
+		self.img
