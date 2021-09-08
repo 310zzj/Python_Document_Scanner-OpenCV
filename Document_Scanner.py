@@ -46,3 +46,4 @@ class Scanner:
 		
 		self.img = img
 		
+	def R
