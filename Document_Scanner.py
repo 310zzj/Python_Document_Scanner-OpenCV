@@ -44,4 +44,5 @@ class Scanner:
 		None
 		"""
 		
-		self.img
+		self.img = img
+		
