@@ -46,4 +46,4 @@ class Scanner:
 		
 		self.img = img
 		
-	def Resize_Ima
+	def Resize_Image(self, fi
