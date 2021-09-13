@@ -47,3 +47,5 @@ class Scanner:
 		self.img = img
 		
 	def Resize_Image(self, final_height, img):
+		"""
+		Re
