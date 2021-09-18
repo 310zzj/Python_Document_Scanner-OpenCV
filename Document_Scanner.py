@@ -50,4 +50,4 @@ class Scanner:
 		"""
 		Resizes the image by preserving its axis ratio. 
 
-		A
+		An argume
