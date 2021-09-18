@@ -48,4 +48,4 @@ class Scanner:
 		
 	def Resize_Image(self, final_height, img):
 		"""
-		Resizes the image by preserving i
+		Resizes the image by preserving its axis ra
