@@ -50,4 +50,4 @@ class Scanner:
 		"""
 		Resizes the image by preserving its axis ratio. 
 
-		An argument 'img' can be either a string or an 
+		An argument 'img' can be either a string or an image arra
