@@ -52,4 +52,5 @@ class Scanner:
 
 		An argument 'img' can be either a string or an image array itself.
 
-		Par
+		Parameters
+		-----
