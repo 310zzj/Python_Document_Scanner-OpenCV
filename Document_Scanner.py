@@ -55,4 +55,4 @@ class Scanner:
 		Parameters
 		----------
 		img : str/array
-			image n
+			image name (ima
