@@ -55,4 +55,5 @@ class Scanner:
 		Parameters
 		----------
 		img : str/array
-			image name (image array) of the document
+			image name (image array) of the document/photo
+	
