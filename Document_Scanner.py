@@ -57,4 +57,4 @@ class Scanner:
 		img : str/array
 			image name (image array) of the document/photo
 		final_height : int 
-			final heig
+			final height to re
