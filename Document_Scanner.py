@@ -57,4 +57,6 @@ class Scanner:
 		img : str/array
 			image name (image array) of the document/photo
 		final_height : int 
-			final height to resize an image to (in pixe
+			final height to resize an image to (in pixels)
+
+	
