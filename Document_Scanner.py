@@ -61,4 +61,4 @@ class Scanner:
 
 		Returns
 		-------
-		R
+		Resized image 
