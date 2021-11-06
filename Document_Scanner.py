@@ -63,3 +63,5 @@ class Scanner:
 		-------
 		Resized image (array)
 		"""
+
+		
