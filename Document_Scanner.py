@@ -64,4 +64,4 @@ class Scanner:
 		Resized image (array)
 		"""
 
-		if isinsta
+		if isinstance(
