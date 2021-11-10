@@ -65,3 +65,4 @@ class Scanner:
 		"""
 
 		if isinstance(img, str):
+		
