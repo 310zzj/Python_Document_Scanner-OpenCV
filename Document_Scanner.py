@@ -66,4 +66,4 @@ class Scanner:
 
 		if isinstance(img, str):
 			print("This is string!")
-			img =
+			img = cv2.imread
