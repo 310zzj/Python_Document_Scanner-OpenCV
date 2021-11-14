@@ -65,4 +65,5 @@ class Scanner:
 		"""
 
 		if isinstance(img, str):
-			print("This is string!"
+			print("This is string!")
+			img =
