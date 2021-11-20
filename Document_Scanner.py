@@ -68,3 +68,4 @@ class Scanner:
 			print("This is string!")
 			img = cv2.imread(img, cv2.IMREAD_GRAYSCALE)
 		else:
+			pri
