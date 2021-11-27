@@ -70,4 +70,5 @@ class Scanner:
 		else:
 			print("This is not string!")
 			print(type(img))
-			im
+			img = img
+		#
