@@ -71,4 +71,4 @@ class Scanner:
 			print("This is not string!")
 			print(type(img))
 			img = img
-		# Optional - resizing an
+		# Optional - resizing an image by
