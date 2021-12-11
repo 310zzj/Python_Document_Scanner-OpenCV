@@ -72,4 +72,4 @@ class Scanner:
 			print(type(img))
 			img = img
 		# Optional - resizing an image by preserving its aspect ratio
-		# percentage by which we r
+		# percentage by which we resi
