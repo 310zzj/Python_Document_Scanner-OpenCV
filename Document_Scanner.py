@@ -73,4 +73,4 @@ class Scanner:
 			img = img
 		# Optional - resizing an image by preserving its aspect ratio
 		# percentage by which we resize our image (based on the hight)
-		height_ratio = fi
+		height_ratio = final_h
