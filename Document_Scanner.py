@@ -74,4 +74,4 @@ class Scanner:
 		# Optional - resizing an image by preserving its aspect ratio
 		# percentage by which we resize our image (based on the hight)
 		height_ratio = final_height / img.shape[0]
-		#calculate the ratio of origi
+		#calculate the ratio of original di
