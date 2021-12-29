@@ -75,4 +75,4 @@ class Scanner:
 		# percentage by which we resize our image (based on the hight)
 		height_ratio = final_height / img.shape[0]
 		#calculate the ratio of original dimensions
-		height, wid
+		height, width = int
