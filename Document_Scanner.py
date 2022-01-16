@@ -77,4 +77,4 @@ class Scanner:
 		#calculate the ratio of original dimensions
 		height, width = int(img.shape[0] * height_ratio), int(img.shape[1] * height_ratio)
 		# resizing our image to the desired size
-		im_res = cv2.resize(img,
+		im_res = cv2.resize(img, (width, height
