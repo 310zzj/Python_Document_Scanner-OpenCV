@@ -79,4 +79,4 @@ class Scanner:
 		# resizing our image to the desired size
 		im_res = cv2.resize(img, (width, height))
 		cv2.imshow("Resized", im_res)
-		cv2.wai
+		cv2.waitKey(0)
