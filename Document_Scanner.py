@@ -81,4 +81,4 @@ class Scanner:
 		cv2.imshow("Resized", im_res)
 		cv2.waitKey(0)
 		cv2.destroyAllWindows()
-		retur
+		return im_res
