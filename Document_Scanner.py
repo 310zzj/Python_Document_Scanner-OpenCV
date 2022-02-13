@@ -82,3 +82,5 @@ class Scanner:
 		cv2.waitKey(0)
 		cv2.destroyAllWindows()
 		return im_res
+	
+	def Sca
