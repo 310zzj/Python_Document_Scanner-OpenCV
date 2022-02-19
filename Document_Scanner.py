@@ -83,4 +83,4 @@ class Scanner:
 		cv2.destroyAllWindows()
 		return im_res
 	
-	def Scan_View(self, save_collage=False, 
+	def Scan_View(self, save_collage=False, resiz
