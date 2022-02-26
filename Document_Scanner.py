@@ -84,4 +84,5 @@ class Scanner:
 		return im_res
 	
 	def Scan_View(self, save_collage=False, resize_collage=True, resize_height=500):
-		""
+		"""
+		Tran
