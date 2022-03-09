@@ -85,4 +85,6 @@ class Scanner:
 	
 	def Scan_View(self, save_collage=False, resize_collage=True, resize_height=500):
 		"""
-		Transforms an image/document view into B&W view (proper scanned colour scheme
+		Transforms an image/document view into B&W view (proper scanned colour scheme).
+
+	
