@@ -87,4 +87,4 @@ class Scanner:
 		"""
 		Transforms an image/document view into B&W view (proper scanned colour scheme).
 
-		Optionally, saves a
+		Optionally, saves and r
