@@ -92,4 +92,4 @@ class Scanner:
 		Parameters
 		----------
 		save_collage : bool
-			fla
+			flag to save
