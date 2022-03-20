@@ -91,4 +91,4 @@ class Scanner:
 
 		Parameters
 		----------
-		sa
+		save_collag
