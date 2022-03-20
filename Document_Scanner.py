@@ -92,4 +92,4 @@ class Scanner:
 		Parameters
 		----------
 		save_collage : bool
-			flag to save
+			flag to save the col
