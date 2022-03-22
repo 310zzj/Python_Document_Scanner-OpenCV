@@ -93,4 +93,4 @@ class Scanner:
 		----------
 		save_collage : bool
 			flag to save the collage
-		resize_co
+		resize_collage 
