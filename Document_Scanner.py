@@ -95,4 +95,4 @@ class Scanner:
 			flag to save the collage
 		resize_collage : bool
 			flag to resize the collage
-		resize_
+		resize_height 
