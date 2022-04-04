@@ -95,4 +95,5 @@ class Scanner:
 			flag to save the collage
 		resize_collage : bool
 			flag to resize the collage
-		resize_height : int (def
+		resize_height : int (default = 500)
+			fi
