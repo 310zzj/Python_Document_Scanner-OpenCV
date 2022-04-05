@@ -96,4 +96,4 @@ class Scanner:
 		resize_collage : bool
 			flag to resize the collage
 		resize_height : int (default = 500)
-			final he
+			final height to r
