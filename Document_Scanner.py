@@ -97,3 +97,5 @@ class Scanner:
 			flag to resize the collage
 		resize_height : int (default = 500)
 			final height to resize an image to (in pixels)
+
+		Re
