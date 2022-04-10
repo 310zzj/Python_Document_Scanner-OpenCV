@@ -103,4 +103,5 @@ class Scanner:
 		Resized image (array)
 		"""
 
-		print("Scanned V
+		print("Scanned View")
+		#
