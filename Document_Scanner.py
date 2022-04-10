@@ -104,4 +104,4 @@ class Scanner:
 		"""
 
 		print("Scanned View")
-		#
+		# read the 
