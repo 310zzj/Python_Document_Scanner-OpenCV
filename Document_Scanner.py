@@ -101,4 +101,6 @@ class Scanner:
 		Returns
 		-------
 		Resized image (array)
-		
+		"""
+
+	
