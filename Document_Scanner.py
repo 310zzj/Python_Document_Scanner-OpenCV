@@ -100,4 +100,4 @@ class Scanner:
 
 		Returns
 		-------
-		Resized imag
+		Resized image (ar
