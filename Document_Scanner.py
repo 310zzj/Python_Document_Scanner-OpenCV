@@ -103,4 +103,4 @@ class Scanner:
 		Resized image (array)
 		"""
 
-	
+		print("Sca
