@@ -100,3 +100,4 @@ class Scanner:
 
 		Returns
 		-------
+		Resiz
