@@ -104,4 +104,4 @@ class Scanner:
 		"""
 
 		print("Scanned View")
-		# read the original 
+		# read the original image, copy 
