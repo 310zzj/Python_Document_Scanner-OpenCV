@@ -105,4 +105,4 @@ class Scanner:
 
 		print("Scanned View")
 		# read the original image, copy it,
-		# apply th
+		# apply threshold to
