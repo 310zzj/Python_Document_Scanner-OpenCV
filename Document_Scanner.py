@@ -107,4 +107,6 @@ class Scanner:
 		# read the original image, copy it,
 		# apply threshold to "scannify" it
 		image = cv2.imread(self.img)
-		orig = image.copy(
+		orig = image.copy()
+		
+	
