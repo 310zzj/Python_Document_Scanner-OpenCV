@@ -109,4 +109,4 @@ class Scanner:
 		image = cv2.imread(self.img)
 		orig = image.copy()
 		
-		# convert our image to gr
+		# convert our image to grayscale,
