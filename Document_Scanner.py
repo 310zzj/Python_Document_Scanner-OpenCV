@@ -109,4 +109,5 @@ class Scanner:
 		image = cv2.imread(self.img)
 		orig = image.copy()
 		
-		# convert our image to grayscale, apply thre
+		# convert our image to grayscale, apply threshold
+		# to
