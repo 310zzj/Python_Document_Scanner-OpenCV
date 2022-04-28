@@ -110,4 +110,4 @@ class Scanner:
 		orig = image.copy()
 		
 		# convert our image to grayscale, apply threshold
-		# to
+		# to creat
