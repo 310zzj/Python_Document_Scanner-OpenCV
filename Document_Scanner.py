@@ -110,4 +110,5 @@ class Scanner:
 		orig = image.copy()
 		
 		# convert our image to grayscale, apply threshold
-		# to create scanned
+		# to create scanned paper effect
+	
