@@ -111,4 +111,4 @@ class Scanner:
 		
 		# convert our image to grayscale, apply threshold
 		# to create scanned paper effect
-		image = cv2.cvtColor(imag
+		image = cv2.cvtColor(image, cv2
