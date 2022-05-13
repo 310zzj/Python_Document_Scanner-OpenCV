@@ -113,4 +113,6 @@ class Scanner:
 		# to create scanned paper effect
 		image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 		thr = threshold_local(image, 11, offset = 10, method = "gaussian")
-		image = (image > thr).astype("uint8") * 25
+		image = (image > thr).astype("uint8") * 255
+
+		
