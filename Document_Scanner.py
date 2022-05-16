@@ -115,4 +115,5 @@ class Scanner:
 		thr = threshold_local(image, 11, offset = 10, method = "gaussian")
 		image = (image > thr).astype("uint8") * 255
 
-		# show the original image and the edge detected ima
+		# show the original image and the edge detected image
+		#
