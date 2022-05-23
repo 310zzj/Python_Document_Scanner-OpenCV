@@ -116,4 +116,4 @@ class Scanner:
 		image = (image > thr).astype("uint8") * 255
 
 		# show the original image and the edge detected image
-		#cv2.imshow("or
+		#cv2.imshow("orig", 
