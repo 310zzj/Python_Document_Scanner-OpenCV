@@ -119,4 +119,4 @@ class Scanner:
 		#cv2.imshow("orig", orig)
 		#cv2.imshow("Scanned", image)
 		#cv2.waitKey(0)
-		#cv2.dest
+		#cv2.destroyAllWi
