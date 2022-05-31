@@ -118,4 +118,4 @@ class Scanner:
 		# show the original image and the edge detected image
 		#cv2.imshow("orig", orig)
 		#cv2.imshow("Scanned", image)
-		#cv
+		#cv2.wait
