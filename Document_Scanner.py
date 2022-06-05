@@ -120,4 +120,5 @@ class Scanner:
 		#cv2.imshow("Scanned", image)
 		#cv2.waitKey(0)
 		#cv2.destroyAllWindows()
-		print(np.shape(orig), np.shape(image)
+		print(np.shape(orig), np.shape(image))
+		if sa
