@@ -123,4 +123,4 @@ class Scanner:
 		print(np.shape(orig), np.shape(image))
 		if save_collage:
 			# Saving a nice horizontal collage
-			horiz_co
+			horiz_conc = np
