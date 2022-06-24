@@ -125,4 +125,5 @@ class Scanner:
 			# Saving a nice horizontal collage
 			horiz_conc = np.concatenate((orig[:,:,1], image), axis=1)
 			if resize_collage:
-				# Optional - resizing this collage to take less
+				# Optional - resizing this collage to take less space
+			
