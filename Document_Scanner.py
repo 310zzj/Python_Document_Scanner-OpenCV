@@ -127,4 +127,4 @@ class Scanner:
 			if resize_collage:
 				# Optional - resizing this collage to take less space
 				horiz_conc = self.Resize_Image(resize_height, horiz_conc)
-			# Saving
+			# Saving the ho
