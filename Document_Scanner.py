@@ -128,4 +128,5 @@ class Scanner:
 				# Optional - resizing this collage to take less space
 				horiz_conc = self.Resize_Image(resize_height, horiz_conc)
 			# Saving the horizontal collage
-			cv2.imwrite('Part_scan_view.png', horiz_con
+			cv2.imwrite('Part_scan_view.png', horiz_conc)
+		els
