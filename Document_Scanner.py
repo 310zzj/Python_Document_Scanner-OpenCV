@@ -130,4 +130,5 @@ class Scanner:
 			# Saving the horizontal collage
 			cv2.imwrite('Part_scan_view.png', horiz_conc)
 		else:
-			# Saving an image i
+			# Saving an image itself
+	
