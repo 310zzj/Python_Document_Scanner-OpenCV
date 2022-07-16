@@ -131,4 +131,4 @@ class Scanner:
 			cv2.imwrite('Part_scan_view.png', horiz_conc)
 		else:
 			# Saving an image itself
-	
+			cv2.i
