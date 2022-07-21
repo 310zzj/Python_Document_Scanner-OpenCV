@@ -132,4 +132,4 @@ class Scanner:
 		else:
 			# Saving an image itself
 			cv2.imwrite('Part_scan_view.png', image)
-		retur
+		return image
