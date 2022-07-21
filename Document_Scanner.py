@@ -133,3 +133,5 @@ class Scanner:
 			# Saving an image itself
 			cv2.imwrite('Part_scan_view.png', image)
 		return image
+
+	def Ro
