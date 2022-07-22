@@ -134,4 +134,4 @@ class Scanner:
 			cv2.imwrite('Part_scan_view.png', image)
 		return image
 
-	def Rotation(self, save_rotated=False, 
+	def Rotation(self, save_rotated=False, resize_
