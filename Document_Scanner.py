@@ -136,4 +136,4 @@ class Scanner:
 
 	def Rotation(self, save_rotated=False, resize_height=500):
 		"""
-		Rotate an image/do
+		Rotate an image/document 
