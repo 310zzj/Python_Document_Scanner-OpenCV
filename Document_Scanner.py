@@ -135,4 +135,5 @@ class Scanner:
 		return image
 
 	def Rotation(self, save_rotated=False, resize_height=500):
-		
+		"""
+		Rot
