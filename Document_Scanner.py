@@ -136,4 +136,4 @@ class Scanner:
 
 	def Rotation(self, save_rotated=False, resize_height=500):
 		"""
-		Rotate an image/document view for a face-on view (view from t
+		Rotate an image/document view for a face-on view (view from the top).
