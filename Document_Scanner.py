@@ -138,4 +138,4 @@ class Scanner:
 		"""
 		Rotate an image/document view for a face-on view (view from the top).
 
-		Optionally, saves a
+		Optionally, saves and resizes 
