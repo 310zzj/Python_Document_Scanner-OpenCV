@@ -140,3 +140,4 @@ class Scanner:
 
 		Optionally, saves and resizes a collage with the original and scanned images.
 
+		Parame
