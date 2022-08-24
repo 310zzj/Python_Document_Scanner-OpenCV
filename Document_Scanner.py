@@ -142,3 +142,4 @@ class Scanner:
 
 		Parameters
 		----------
+		save_ro
