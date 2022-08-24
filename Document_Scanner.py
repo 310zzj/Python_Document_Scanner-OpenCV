@@ -142,4 +142,4 @@ class Scanner:
 
 		Parameters
 		----------
-		save_ro
+		save_rotated : 
