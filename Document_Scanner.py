@@ -143,4 +143,4 @@ class Scanner:
 		Parameters
 		----------
 		save_rotated : bool
-			flag to save the rota
+			flag to save the rotated 
