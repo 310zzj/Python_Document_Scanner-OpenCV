@@ -149,4 +149,4 @@ class Scanner:
 
 		Returns
 		-------
-		Rotate
+		Rotated image (ar
