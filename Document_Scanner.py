@@ -148,4 +148,5 @@ class Scanner:
 			final height to resize an image to (in pixels)
 
 		Returns
-		---
+		-------
+		Rotate
