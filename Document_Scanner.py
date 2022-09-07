@@ -147,4 +147,5 @@ class Scanner:
 		resize_height : int (optional, default = 500)
 			final height to resize an image to (in pixels)
 
-		Re
+		Returns
+		---
