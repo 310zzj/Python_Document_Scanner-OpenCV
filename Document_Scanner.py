@@ -145,4 +145,4 @@ class Scanner:
 		save_rotated : bool
 			flag to save the rotated image
 		resize_height : int (optional, default = 500)
-			final height to resize a
+			final height to resize an image 
