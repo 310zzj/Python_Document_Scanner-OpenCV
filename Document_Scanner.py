@@ -150,4 +150,6 @@ class Scanner:
 		Returns
 		-------
 		Rotated image (array)
-		
+		"""
+
+		pri
