@@ -149,4 +149,5 @@ class Scanner:
 
 		Returns
 		-------
-		Rotated image (ar
+		Rotated image (array)
+		
