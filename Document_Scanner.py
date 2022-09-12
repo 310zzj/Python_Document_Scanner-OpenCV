@@ -152,4 +152,4 @@ class Scanner:
 		Rotated image (array)
 		"""
 
-		print("Rot
+		print("Rotation
