@@ -153,4 +153,4 @@ class Scanner:
 		"""
 
 		print("Rotation")
-		# read the original image, 
+		# read the original image, copy i
