@@ -155,4 +155,4 @@ class Scanner:
 		print("Rotation")
 		# read the original image, copy it,
 		# rotate it
-		image = cv
+		image = cv2.imrea
