@@ -155,4 +155,5 @@ class Scanner:
 		print("Rotation")
 		# read the original image, copy it,
 		# rotate it
-		image = cv2.imread(self.img
+		image = cv2.imread(self.img)
+		orig
