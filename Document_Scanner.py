@@ -158,4 +158,4 @@ class Scanner:
 		image = cv2.imread(self.img)
 		orig = image.copy()
 		
-		ima
+		image = cv2.cv
