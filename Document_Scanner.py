@@ -156,4 +156,4 @@ class Scanner:
 		# read the original image, copy it,
 		# rotate it
 		image = cv2.imread(self.img)
-		orig = im
+		orig = image.copy()
