@@ -158,4 +158,5 @@ class Scanner:
 		image = cv2.imread(self.img)
 		orig = image.copy()
 		
-		image = cv2.cvtColor(orig, cv2.COLOR_BGR2G
+		image = cv2.cvtColor(orig, cv2.COLOR_BGR2GRAY)
+		i
