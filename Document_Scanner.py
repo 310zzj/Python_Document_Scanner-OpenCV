@@ -159,4 +159,4 @@ class Scanner:
 		orig = image.copy()
 		
 		image = cv2.cvtColor(orig, cv2.COLOR_BGR2GRAY)
-		img_edg
+		img_edges = cv2.Can
