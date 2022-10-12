@@ -160,4 +160,4 @@ class Scanner:
 		
 		image = cv2.cvtColor(orig, cv2.COLOR_BGR2GRAY)
 		img_edges = cv2.Canny(image, 100, 100, apertureSize=3)
-		lines = cv2.HoughLinesP(im
+		lines = cv2.HoughLinesP(img_edg
