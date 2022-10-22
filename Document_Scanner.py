@@ -163,4 +163,5 @@ class Scanner:
 		lines = cv2.HoughLinesP(img_edges, rho=1, theta=np.pi / 180.0, threshold=160, minLineLength=100, maxLineGap=10)
 		
 		# calculate all the angles:
-		angles
+		angles = []
+	
