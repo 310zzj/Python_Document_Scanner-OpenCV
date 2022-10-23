@@ -164,4 +164,4 @@ class Scanner:
 		
 		# calculate all the angles:
 		angles = []
-	
+		for [[x
