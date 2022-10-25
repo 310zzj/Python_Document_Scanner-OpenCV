@@ -164,4 +164,4 @@ class Scanner:
 		
 		# calculate all the angles:
 		angles = []
-		for [[x1, y1, x2, y2]] i
+		for [[x1, y1, x2, y2]] in lines
