@@ -166,4 +166,4 @@ class Scanner:
 		angles = []
 		for [[x1, y1, x2, y2]] in lines:
 			# Drawing Hough lines
-			#c
+			#cv2.line(im
