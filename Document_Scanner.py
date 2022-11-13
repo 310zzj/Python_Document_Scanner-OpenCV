@@ -167,4 +167,5 @@ class Scanner:
 		for [[x1, y1, x2, y2]] in lines:
 			# Drawing Hough lines
 			#cv2.line(image, (x1, y1), (x2, y2), (128,0,0), 30)
-			angle = math.degrees(math.atan2(y2 - y1, 
+			angle = math.degrees(math.atan2(y2 - y1, x2 - x1))
+	
