@@ -171,3 +171,4 @@ class Scanner:
 			angles.append(angle)
 			
 		# average angles
+		me
