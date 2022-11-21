@@ -171,4 +171,4 @@ class Scanner:
 			angles.append(angle)
 			
 		# average angles
-		median_angl
+		median_angle = np.me
