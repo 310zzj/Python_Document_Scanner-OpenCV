@@ -172,4 +172,4 @@ class Scanner:
 			
 		# average angles
 		median_angle = np.median(angles)
-		# actua
+		# actual rotation
