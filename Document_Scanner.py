@@ -173,4 +173,4 @@ class Scanner:
 		# average angles
 		median_angle = np.median(angles)
 		# actual rotation
-		image = ndimage.rot
+		image = ndimage.rotate(image
