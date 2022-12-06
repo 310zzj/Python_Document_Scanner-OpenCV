@@ -174,3 +174,5 @@ class Scanner:
 		median_angle = np.median(angles)
 		# actual rotation
 		image = ndimage.rotate(image, median_angle)
+
+		# Resize
