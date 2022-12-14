@@ -175,4 +175,4 @@ class Scanner:
 		# actual rotation
 		image = ndimage.rotate(image, median_angle)
 
-		# Resize the rotate
+		# Resize the rotated image 
