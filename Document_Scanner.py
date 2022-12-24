@@ -175,4 +175,5 @@ class Scanner:
 		# actual rotation
 		image = ndimage.rotate(image, median_angle)
 
-		# Resize the rotated image to the old hei
+		# Resize the rotated image to the old height
+		
