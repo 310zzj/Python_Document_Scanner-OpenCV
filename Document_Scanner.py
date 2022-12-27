@@ -176,4 +176,4 @@ class Scanner:
 		image = ndimage.rotate(image, median_angle)
 
 		# Resize the rotated image to the old height
-		#image = self.Resiz
+		#image = self.Resize_Image(re
