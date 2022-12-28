@@ -177,3 +177,4 @@ class Scanner:
 
 		# Resize the rotated image to the old height
 		#image = self.Resize_Image(resize_height , image)
+		#p
