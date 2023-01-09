@@ -178,4 +178,4 @@ class Scanner:
 		# Resize the rotated image to the old height
 		#image = self.Resize_Image(resize_height , image)
 		#print(np.shape(image))
-		# show the original an
+		# show the original and rotated 
