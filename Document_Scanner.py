@@ -179,3 +179,4 @@ class Scanner:
 		#image = self.Resize_Image(resize_height , image)
 		#print(np.shape(image))
 		# show the original and rotated image
+		#cv2.imshow(
