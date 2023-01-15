@@ -180,4 +180,4 @@ class Scanner:
 		#print(np.shape(image))
 		# show the original and rotated image
 		#cv2.imshow("orig", orig)
-		cv2.ims
+		cv2.imshow("Ro
