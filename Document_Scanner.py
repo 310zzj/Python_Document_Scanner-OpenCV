@@ -181,4 +181,5 @@ class Scanner:
 		# show the original and rotated image
 		#cv2.imshow("orig", orig)
 		cv2.imshow("Rotated", image)
-		cv2.waitKey
+		cv2.waitKey(0)
+		c
