@@ -182,4 +182,4 @@ class Scanner:
 		#cv2.imshow("orig", orig)
 		cv2.imshow("Rotated", image)
 		cv2.waitKey(0)
-		cv2.destroy
+		cv2.destroyAllWindows(
