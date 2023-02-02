@@ -183,4 +183,4 @@ class Scanner:
 		cv2.imshow("Rotated", image)
 		cv2.waitKey(0)
 		cv2.destroyAllWindows()
-		
+		print(np.sh
