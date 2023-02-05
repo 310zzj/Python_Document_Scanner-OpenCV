@@ -184,4 +184,5 @@ class Scanner:
 		cv2.waitKey(0)
 		cv2.destroyAllWindows()
 		print(np.shape(orig), np.shape(image))
-		if save_rotated
+		if save_rotated:
+			
