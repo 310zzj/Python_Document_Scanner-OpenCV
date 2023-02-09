@@ -186,4 +186,4 @@ class Scanner:
 		print(np.shape(orig), np.shape(image))
 		if save_rotated:
 			# Saving an image itself
-			cv2.imwrite('Par
+			cv2.imwrite('Part_rot
