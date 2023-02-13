@@ -187,4 +187,6 @@ class Scanner:
 		if save_rotated:
 			# Saving an image itself
 			cv2.imwrite('Part_rotation.png', image)
-		return im
+		return image
+	
+	
