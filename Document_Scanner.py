@@ -190,3 +190,4 @@ class Scanner:
 		return image
 	
 	
+if __nam
