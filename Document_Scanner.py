@@ -190,4 +190,4 @@ class Scanner:
 		return image
 	
 	
-if __name__=="__main_
+if __name__=="__main__":
