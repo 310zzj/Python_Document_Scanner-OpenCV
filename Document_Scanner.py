@@ -191,4 +191,4 @@ class Scanner:
 	
 	
 if __name__=="__main__":
-	# Defining th
+	# Defining the imag
