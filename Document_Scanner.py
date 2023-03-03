@@ -194,3 +194,4 @@ if __name__=="__main__":
 	# Defining the image name
 	img = "21_Lesson_21th_Century.jpeg"
 	
+	# Call
