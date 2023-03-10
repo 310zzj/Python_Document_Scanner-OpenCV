@@ -195,3 +195,4 @@ if __name__=="__main__":
 	img = "21_Lesson_21th_Century.jpeg"
 	
 	# Calling the scanner class
+	scan = Sc
