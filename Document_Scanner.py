@@ -197,4 +197,4 @@ if __name__=="__main__":
 	# Calling the scanner class
 	scan = Scanner(img)
 	
-	# Opt
+	# Optional - 
