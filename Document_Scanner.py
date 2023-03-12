@@ -197,4 +197,5 @@ if __name__=="__main__":
 	# Calling the scanner class
 	scan = Scanner(img)
 	
-	# Optional - resiz
+	# Optional - resizing image
+	#s
