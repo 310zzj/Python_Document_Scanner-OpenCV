@@ -198,4 +198,4 @@ if __name__=="__main__":
 	scan = Scanner(img)
 	
 	# Optional - resizing image
-	#scan.Re
+	#scan.Resize_
