@@ -200,4 +200,4 @@ if __name__=="__main__":
 	# Optional - resizing image
 	#scan.Resize_Image(512, img)
 	
-	# Scanning the
+	# Scanning the image 
