@@ -201,4 +201,4 @@ if __name__=="__main__":
 	#scan.Resize_Image(512, img)
 	
 	# Scanning the image -> B&W scheme
-	scanned_im = scan.Scan_View(save_collage=False, resize_collage=False
+	scanned_im = scan.Scan_View(save_collage=False, resize_collage=False, resi
