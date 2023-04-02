@@ -206,3 +206,4 @@ if __name__=="__main__":
 	# Testing my docstrings:
 	#help(Scanner)
 	
+	sca
