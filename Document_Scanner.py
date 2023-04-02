@@ -203,4 +203,4 @@ if __name__=="__main__":
 	# Scanning the image -> B&W scheme
 	scanned_im = scan.Scan_View(save_collage=False, resize_collage=False, resize_height =500)
 
-	# Testing my docstr
+	# Testing my docstrings:
