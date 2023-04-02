@@ -204,3 +204,4 @@ if __name__=="__main__":
 	scanned_im = scan.Scan_View(save_collage=False, resize_collage=False, resize_height =500)
 
 	# Testing my docstrings:
+	#help(S
