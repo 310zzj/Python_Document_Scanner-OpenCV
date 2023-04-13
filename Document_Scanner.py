@@ -206,4 +206,5 @@ if __name__=="__main__":
 	# Testing my docstrings:
 	#help(Scanner)
 	
-	scanned_im = "Part_scan_view
+	scanned_im = "Part_scan_view.png"
+	sc
