@@ -207,4 +207,4 @@ if __name__=="__main__":
 	#help(Scanner)
 	
 	scanned_im = "Part_scan_view.png"
-	scan = Scan
+	scan = Scanner(
