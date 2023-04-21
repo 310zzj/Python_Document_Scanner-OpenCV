@@ -208,4 +208,4 @@ if __name__=="__main__":
 	
 	scanned_im = "Part_scan_view.png"
 	scan = Scanner(scanned_im)
-	rotated_im = scan.Rotatio
+	rotated_im = scan.Rotation(save_r
