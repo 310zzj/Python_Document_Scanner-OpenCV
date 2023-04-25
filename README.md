@@ -1,1 +1,1 @@
-# OpenCV Document Scanner Appli
+# OpenCV Document Scanner Application\n\
