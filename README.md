@@ -1,1 +1,1 @@
-# OpenCV Document Scanne
+# OpenCV Document Scanner Appli
