@@ -1,1 +1,1 @@
-# OpenCV Document Scanner Application\n\n## Mai
+# OpenCV Document Scanner Application\n\n## Maintaine
