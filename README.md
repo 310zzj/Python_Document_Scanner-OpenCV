@@ -1,1 +1,1 @@
-# OpenCV Document Scanner Application\n\n## Maintained By: [310zzj](https://www.linkedin.com/310zzj)\n\nThis repository is dedicated 
+# OpenCV Document Scanner Application\n\n## Maintained By: [310zzj](https://www.linkedin.com/310zzj)\n\nThis repository is dedicated to a
